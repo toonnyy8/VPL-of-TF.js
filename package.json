@@ -19,7 +19,7 @@
   "homepage": "https://github.com/toonnyy8/VPL-of-TF.js#readme",
   "dependencies": {
     "core-js": "^3.5.0",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "regenerator-runtime": "^0.13.3"
   }
 }
